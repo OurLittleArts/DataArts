@@ -1,2 +1,2 @@
 # DataArts
-Nothing. Just guss!
+This project is about data process.
